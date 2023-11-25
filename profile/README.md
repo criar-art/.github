@@ -1,4 +1,4 @@
-# Criar.Art
+# Criar.Art Tecnologia
 Organização focada no desenvolvimento de softwares
 
 Criar.Art foi inspirado no verbo Criar, fazer existir; criar origem, a partir do nada.
