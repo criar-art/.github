@@ -1,6 +1,8 @@
 # Criar.Art Tecnologia
-Organização focada no desenvolvimento de softwares
+## Organização dedicada ao avanço no desenvolvimento de software.
 
 Criar.Art foi inspirado no verbo Criar, fazer existir; criar origem, a partir do nada.
-Junto com a necessidade objetiva de criar algo Artístico, um projeto e interface admirável.
-Uma Organização que foca em juntar tecnologia e resultados.
+
+Movida pela necessidade objetiva de conceber algo verdadeiramente artístico, nosso objetivo é desenvolver projetos e interfaces admiráveis.
+
+Somos uma organização comprometida em integrar tecnologia e alcançar resultados excepcionais.
